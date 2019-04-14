@@ -1,4 +1,5 @@
 //注意调试的时候的逗号需是英文格式//
+//仅仅是生成一个动态链表//
 
 #include <stdio.h>
 #include <stdlib.h>
